@@ -46,3 +46,4 @@ $ apt-get update
 $ apt-get install python-dev python-setuptools python-pip unzip
 ``` 
 
+3) Get your hands on example project in https://github.com/neeveermoree/obj_det_innovate_fpga_2020/template_project
