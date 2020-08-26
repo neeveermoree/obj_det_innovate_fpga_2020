@@ -1,0 +1,113 @@
+{
+    "benchmark": {
+        "inference": 0.09812529900227673,
+        "post": 0.004140470002312213,
+        "pre": 0.0012220089993206784,
+        "total": 0.10348777800390963
+    },
+    "classes": [
+        {
+            "id": 0,
+            "name": "aeroplane"
+        },
+        {
+            "id": 1,
+            "name": "bicycle"
+        },
+        {
+            "id": 2,
+            "name": "bird"
+        },
+        {
+            "id": 3,
+            "name": "boat"
+        },
+        {
+            "id": 4,
+            "name": "bottle"
+        },
+        {
+            "id": 5,
+            "name": "bus"
+        },
+        {
+            "id": 6,
+            "name": "car"
+        },
+        {
+            "id": 7,
+            "name": "cat"
+        },
+        {
+            "id": 8,
+            "name": "chair"
+        },
+        {
+            "id": 9,
+            "name": "cow"
+        },
+        {
+            "id": 10,
+            "name": "diningtable"
+        },
+        {
+            "id": 11,
+            "name": "dog"
+        },
+        {
+            "id": 12,
+            "name": "horse"
+        },
+        {
+            "id": 13,
+            "name": "motorbike"
+        },
+        {
+            "id": 14,
+            "name": "person"
+        },
+        {
+            "id": 15,
+            "name": "pottedplant"
+        },
+        {
+            "id": 16,
+            "name": "sheep"
+        },
+        {
+            "id": 17,
+            "name": "sofa"
+        },
+        {
+            "id": 18,
+            "name": "train"
+        },
+        {
+            "id": 19,
+            "name": "tvmonitor"
+        }
+    ],
+    "date": "2020-04-10T20:10:42.879862",
+    "results": [
+        {
+            "file_path": "small.jpg",
+            "prediction": [
+                {
+                    "box": [
+                        27.180423870682716,
+                        29.672134160995483,
+                        237.9516126513481,
+                        196.07285046577454
+                    ],
+                    "class": {
+                        "id": 14,
+                        "name": "person"
+                    },
+                    "score": "0.19234175980091095"
+                }
+            ]
+        }
+    ],
+    "task": "IMAGE.OBJECT_DETECTION",
+    "version": 0.2
+}
