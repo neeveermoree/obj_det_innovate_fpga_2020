@@ -1,5 +1,7 @@
 # Object Detection
 
+[![DOI](https://zenodo.org/badge/288429188.svg)](https://zenodo.org/badge/latestdoi/288429188)
+
 Object Detection via YOLO alorithm on DE10-NANO for Innovate FPGA
 
 1) Install Blueoil to your desktop machine
